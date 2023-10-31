@@ -1,3 +1,4 @@
+<!-- https://github.com/giusmili/methode-get.git -->
 <?php
     include_once "./src/head.inc.php";
 ?>
