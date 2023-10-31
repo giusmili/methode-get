@@ -37,7 +37,7 @@ print_r($_SERVER)
 )
 
 ```
->Dans notre cas nous allons utiliser ces **surperglobale** lorsque on manipules les données d'un formulaire ou sur une requête dans une url:
+>⚡️Dans notre cas nous allons utiliser ces **surperglobale** lorsque on manipules les données d'un formulaire ou sur une requête dans une url:
 ```html
 <a href="index.php?genre=homme">vous êtes un homme</a>
 
