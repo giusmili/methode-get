@@ -3,7 +3,7 @@
 ![cover](./asset/HkfXSEWWa.png)
 > &copy;  [Giuseppe Militello](https://www.linkedin.com/in/giuseppe-militello-22406ab0/) - All rights reserved for educational purposes only
 
-## Que'est ce que une superglobale dans PHP?
+## 🧑‍💻 Que'est ce que une superglobale dans PHP?
 >Plusieurs variables prédéfinies en PHP sont "superglobales", ce qui signifie qu'elles sont disponibles quel que soit le contexte du script. Il est inutile de faire global $variable; avant d'y accéder dans les fonctions ou les méthodes. 
 
 ## Comment peut-on les retrouver dans l'environnement Apache?
