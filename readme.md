@@ -1,5 +1,5 @@
 # Activities php : les superglobales 👍
-*PHP: Hypertext Preprocessor*
+*PHP: Hypertext Preprocessor*<br>
 ![cover](./asset/HkfXSEWWa.png)
 > &copy;  [Giuseppe Militello](https://www.linkedin.com/in/giuseppe-militello-22406ab0/) - All rights reserved for educational purposes only
 
