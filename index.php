@@ -16,7 +16,8 @@
             </p>
         
         <?php
-            include_once "./src/choice.inc.php";
+           
+            include_once "./src/civilite.class.php";
         ?>
         </section>
     </main>
