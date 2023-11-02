@@ -19,7 +19,9 @@
           class UserAsk{
                 # code...
             public function askage(){
+
                 if(isset($_GET['reponse'])){
+                
                     $_response = $_GET['reponse'];
 
                     switch ($_response) {
